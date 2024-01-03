@@ -25,3 +25,7 @@
 https://github.com/iDvel/rime-ice/issues/590#issuecomment-1868972705
 
 可以挂在进rime输入法，但由于工作繁忙，没有足够时间折腾，因此暂用卡饭输入法代替
+
+## 六、其他资料
+
+敏理：[http://blog.sina.com.cn/s/articlelist_1506303457_0_1.html](http://blog.sina.com.cn/s/articlelist_1506303457_0_1.html)
