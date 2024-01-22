@@ -2147,7 +2147,7 @@ da'zhuang'zhi'dun 大壮之遯：刚柔相伤，火烂销金，雕鹰制兔，伐楚有功。
 da'zhuang'zhi'jin 大壮之晋：郑国谗多，数被楚忧，商人愁苦，民困无聊。
 da'zhuang'zhi'ming'yi 大壮之明夷：弓矢其张，把弹弦折，九发不至，道过害患。
 da'zhuang'zhi'jia'ren 大壮之家人：举觞饮酒，未得至口，侧弁醉酗，拔剑相怒，武侯作悔。
-da'zhuang'zhi'kui 大壮之睽：原缺。
+da'zhuang'zhi'kui 大壮之睽：苍鹰群行，相得旅前。王孙申公，惊夺我雄。北天门开，神火飞灾。如不敬信，事入尘埃。
 da'zhuang'zhi'jian 大壮之蹇：穿空相宜，利倍我北，循邪诡道，逃不可得，南北望邑，遂归入室。
 da'zhuang'zhi'jie 大壮之解：寿如松乔，与日月俱，常安康乐，不离祸忧。
 da'zhuang'zhi'sun 大壮之损：出门望东，伯仲不来，疾病为患，使母忧叹。
@@ -2274,7 +2274,7 @@ ming'yi'zhi'heng 明夷之恒：魂微惙惙，行纩听绝。旷然大通，复更生活。
 ming'yi'zhi'dun 明夷之遯：栾子作殃，伯氏诛伤。州犁奔楚，去其邑乡。
 ming'yi'zhi'da'zhaung 明夷之大壮：骄胡犬形，造恶作凶。无所能成，还自灭身。
 ming'yi'zhi'jin 明夷之晋：陈辞达城，使安不倾。增荣益誉，以成功名。
-ming'yi'zhi'jia'ren 明夷之家人：三???无枣，家无积莠。使鸠求妇，顽不我许。
+ming'yi'zhi'jia'ren 明夷之家人：三杞无枣，家无积莠。使鸠求妇，顽不我许。
 ming'yi'zhi'kui 明夷之睽：慎祸重病，颜子为友，乃能安存。牢户系羊，乃能受庆。
 ming'yi'zhi'jian 明夷之蹇：鹿得美草，鸣呼其友。九族和穆，不忧饥乏。
 ming'yi'zhi'jie 明夷之解：亡玉失鹿，不知所伏。利以避危，全我生福。甘雨时降，年岁有得。
@@ -3062,9 +3062,9 @@ jing'zhi'jian 井之渐：黄虹之野，贤君在位。荣叚为相，国无灾殃。
 jing'zhi'gui'mei 井之归妺：穿凿道路，为君除舍。开辟福门，喜在我邻。
 jing'zhi'feng 井之丰：商风数起，天下昏晦。旱魃为虐，九土兵作。
 jing'zhi'lv 井之旅：自卫归鲁，时不我与。冰炭异室，仁道隔塞。
-jing'zhi'xun 井之巽：原缺。
+jing'zhi'xun 井之巽：春阳生草，夏长条肄。万物蕃滋，充实益有。
 jing'zhi'dui 井之兑：六虵奔走，俱入茂草。惊于长注，畏惧啄口。
-jing'zhi'huan 井之涣。原缺。
+jing'zhi'huan 井之涣：明月照夜，使暗为昼。国有仁贤，君尊于故。
 jing'zhi'jie 井之节：避虵东走，反入虎口。制于爪牙，骨为灰土。
 jing'zhi'zhong'fu 井之中孚：顷迭不行，弱足善僵。孟絷无良，失其宠光。
 jing'zhi'xiao'guo 井之小过：十羊俱见，黄头为首。岁美民安，国乐无咎。
