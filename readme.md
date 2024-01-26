@@ -25,7 +25,9 @@
 https://github.com/iDvel/rime-ice/issues/590#issuecomment-1868972705
 
 可以挂在进rime输入法，但由于工作繁忙，没有足够时间折腾，因此暂用卡饭输入法代替
+2024年1月26日，已成功挂载进入rime输入法，淘汰掉了卡饭与搜狗输入法。rime使用的是雾凇的方案，一直尝试修使用但经常失败，原因是配置的时候没有删掉之前的文件，可能产生了某种冲突。rime配置花费经费50元。
 
 ## 六、其他资料
 
 敏理：[http://blog.sina.com.cn/s/articlelist_1506303457_0_1.html](http://blog.sina.com.cn/s/articlelist_1506303457_0_1.html)
+
