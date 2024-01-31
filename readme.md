@@ -10,6 +10,8 @@
 
 > https://ctext.org/jiaoshi-yilin/zhs
 
+《焦氏易林注》
+
 ## 三、需要注意的：
 
 ##### 1.乾卦读音修改为为gan卦，因为与谦卦冲突
