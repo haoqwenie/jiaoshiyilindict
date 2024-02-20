@@ -1,0 +1,144 @@
+亥在未长生	hai zai wei chang sheng	1
+亥在申沐浴	hai zai shen mu yu	1
+亥在酉冠带	hai zai you guan dai	1
+亥在戌临官	hai zai xu lin guan	1
+亥在亥帝旺	hai zai hai di wang	1
+亥在子衰	hai zai zi shuai	1
+亥在丑病	hai zai chou bing	1
+亥在寅死	hai zai yin si	1
+亥在卯墓	hai zai mao mu	1
+亥在辰绝	hai zai chen jue	1
+亥在巳胎	hai zai si tai	1
+亥在午养	hai zai wu yang	1
+子在申长生	zi zai shen chang sheng	1
+子在酉沐浴	zi zai you mu yu	1
+子在戌冠带	zi zai xu guan dai	1
+子在亥临官	zi zai hai lin guan	1
+子在子帝旺	zi zai zi di wang	1
+子在丑衰	zi zai chou shuai	1
+子在寅病	zi zai yin bing	1
+子在卯死	zi zai mao si	1
+子在辰墓	zi zai chen mu	1
+子在巳绝	zi zai si jue	1
+子在午胎	zi zai wu tai	1
+子在未养	zi zai wei yang	1
+丑在酉长生	chou zai you chang sheng	1
+丑在戌沐浴	chou zai xu mu yu	1
+丑在亥冠带	chou zai hai guan dai	1
+丑在子临官	chou zai zi lin guan	1
+丑在丑帝旺	chou zai chou di wang	1
+丑在寅衰	chou zai yin shuai	1
+丑在卯病	chou zai mao bing	1
+丑在辰死	chou zai chen si	1
+丑在巳墓	chou zai si mu	1
+丑在午绝	chou zai wu jue	1
+丑在未胎	chou zai wei tai	1
+丑在申养	chou zai shen yang	1
+寅在戌长生	yin zai xu chang sheng	1
+寅在亥沐浴	yin zai hai mu yu	1
+寅在子冠带	yin zai zi guan dai	1
+寅在丑临官	yin zai chou lin guan	1
+寅在寅帝旺	yin zai yin di wang	1
+寅在卯衰	yin zai mao shuai	1
+寅在辰病	yin zai chen bing	1
+寅在巳死	yin zai si si	1
+寅在午墓	yin zai wu mu	1
+寅在未绝	yin zai wei jue	1
+寅在申胎	yin zai shen tai	1
+寅在酉养	yin zai you yang	1
+卯在亥长生	mao zai hai chang sheng	1
+卯在子沐浴	mao zai zi mu yu	1
+卯在丑冠带	mao zai chou guan dai	1
+卯在寅临官	mao zai yin lin guan	1
+卯在卯帝旺	mao zai mao di wang	1
+卯在辰衰	mao zai chen shuai	1
+卯在巳病	mao zai si bing	1
+卯在午死	mao zai wu si	1
+卯在未墓	mao zai wei mu	1
+卯在申绝	mao zai shen jue	1
+卯在酉胎	mao zai you tai	1
+卯在戌养	mao zai xu yang	1
+辰在子长生	chen zai zi chang sheng	1
+辰在丑沐浴	chen zai chou mu yu	1
+辰在寅冠带	chen zai yin guan dai	1
+辰在卯临官	chen zai mao lin guan	1
+辰在辰帝旺	chen zai chen di wang	1
+辰在巳衰	chen zai si shuai	1
+辰在午病	chen zai wu bing	1
+辰在未死	chen zai wei si	1
+辰在申墓	chen zai shen mu	1
+辰在酉绝	chen zai you jue	1
+辰在戌胎	chen zai xu tai	1
+辰在亥养	chen zai hai yang	1
+巳在丑长生	si zai chou chang sheng	1
+巳在寅沐浴	si zai yin mu yu	1
+巳在卯冠带	si zai mao guan dai	1
+巳在辰临官	si zai chen lin guan	1
+巳在巳帝旺	si zai si di wang	1
+巳在午衰	si zai wu shuai	1
+巳在未病	si zai wei bing	1
+巳在申死	si zai shen si	1
+巳在酉墓	si zai you mu	1
+巳在戌绝	si zai xu jue	1
+巳在亥胎	si zai hai tai	1
+巳在子养	si zai zi yang	1
+午在寅长生	wu zai yin chang sheng	1
+午在卯沐浴	wu zai mao mu yu	1
+午在辰冠带	wu zai chen guan dai	1
+午在巳临官	wu zai si lin guan	1
+午在午帝旺	wu zai wu di wang	1
+午在未衰	wu zai wei shuai	1
+午在申病	wu zai shen bing	1
+午在酉死	wu zai you si	1
+午在戌墓	wu zai xu mu	1
+午在亥绝	wu zai hai jue	1
+午在子胎	wu zai zi tai	1
+午在丑养	wu zai chou yang	1
+未在卯长生	wei zai mao chang sheng	1
+未在辰沐浴	wei zai chen mu yu	1
+未在巳冠带	wei zai si guan dai	1
+未在午临官	wei zai wu lin guan	1
+未在未帝旺	wei zai wei di wang	1
+未在申衰	wei zai shen shuai	1
+未在酉病	wei zai you bing	1
+未在戌死	wei zai xu si	1
+未在亥墓	wei zai hai mu	1
+未在子绝	wei zai zi jue	1
+未在丑胎	wei zai chou tai	1
+未在寅养	wei zai yin yang	1
+申在辰长生	shen zai chen chang sheng	1
+申在巳沐浴	shen zai si mu yu	1
+申在午冠带	shen zai wu guan dai	1
+申在未临官	shen zai wei lin guan	1
+申在申帝旺	shen zai shen di wang	1
+申在酉衰	shen zai you shuai	1
+申在戌病	shen zai xu bing	1
+申在亥死	shen zai hai si	1
+申在子墓	shen zai zi mu	1
+申在丑绝	shen zai chou jue	1
+申在寅胎	shen zai yin tai	1
+申在卯养	shen zai mao yang	1
+酉在巳长生	you zai si chang sheng	1
+酉在午沐浴	you zai wu mu yu	1
+酉在未冠带	you zai wei guan dai	1
+酉在申临官	you zai shen lin guan	1
+酉在酉帝旺	you zai you di wang	1
+酉在戌衰	you zai xu shuai	1
+酉在亥病	you zai hai bing	1
+酉在子死	you zai zi si	1
+酉在丑墓	you zai chou mu	1
+酉在寅绝	you zai yin jue	1
+酉在卯胎	you zai mao tai	1
+酉在辰养	you zai chen yang	1
+戌在午长生	xu zai wu chang sheng	1
+戌在未沐浴	xu zai wei mu yu	1
+戌在申冠带	xu zai shen guan dai	1
+戌在酉临官	xu zai you lin guan	1
+戌在戌帝旺	xu zai xu di wang	1
+戌在亥衰	xu zai hai shuai	1
+戌在子病	xu zai zi bing	1
+戌在丑死	xu zai chou si	1
+戌在寅墓	xu zai yin mu	1
+戌在卯绝	xu zai mao jue	1
+戌在辰胎	xu zai chen tai	1
+戌在巳养	xu zai si yang	1
